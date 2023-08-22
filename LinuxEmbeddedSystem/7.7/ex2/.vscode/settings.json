@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "pthread.h": "c",
+        "unistd.h": "c",
+        "msg.h": "c",
+        "signal.h": "c",
+        "sigset_t.h": "c",
+        "sig_atomic_t.h": "c",
+        "sem.h": "c",
+        "wait.h": "c",
+        "shm.h": "c"
+    }
+}
